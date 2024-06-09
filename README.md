@@ -14,6 +14,9 @@ project_root/
 │
 ├── images/
 │   ├── img1.png
+│   ├── WebLink.png
+│   ├── WebResult.png
+│   ├── PhpMyAdmin2.png
 │
 ├── nginx.conf
 └── php/
